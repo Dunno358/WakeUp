@@ -1,4 +1,4 @@
-That is my first ever python project, so code is not following SOLID and is simply bad written.
+That is my first ever python project, so code is not following SOLID and is very badly written.
 # WakeUp
 This is a Pygame application that lets you set reminders for specific dates and times. The application works with Windows Task Scheduler, and it also allows you to customize the look and sound of your reminders.
 ## requirements
