@@ -5,7 +5,7 @@ This is a Pygame application that lets you set reminders for specific dates and 
 - pygame installed
 > pip install pygame
 - Administrator account might be needed
-- Windows 7 and above
+- Windows 7 or above
 # Possiblities
 ## Task scheduling
 You can easily set a reminder on your device at specific date and time(hh:mm:ss) with a note if needed.
