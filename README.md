@@ -9,7 +9,12 @@ This is a Pygame application that lets you set reminders for specific dates and 
 # Possiblities
 ## Task scheduling
 You can easily set a reminder on your device at specific date and time(hh:mm:ss) with a note if needed.
+
+![Setting alarm](https://github.com/Dunno358/Pictures/blob/main/set_alarm.png?raw=true) ![Alarm popped up](https://github.com/Dunno358/Pictures/blob/main/get_alarm.png?raw=true)
 ## Customization
+![Settings](https://github.com/Dunno358/Pictures/blob/main/wakeup_settings.png?raw=true)
 - Colors - You can choose from 21 colors to fill one of three segments of app, which lets you mix them different ways.
+![Colors](https://github.com/Dunno358/Pictures/blob/main/colors_picking.png?raw=true)
 - Background and side pictures - You can choose from preloaded 8 pictures for both background and side bar. If you want you can add your own pictures to specified folder and use them as well.
+![Backgrounds](https://github.com/Dunno358/Pictures/blob/main/pict_picking.png?raw=true) ![Adding Background](https://github.com/Dunno358/Pictures/blob/main/pict_adding.png?raw=true)
 - Music - You can choose if you want your reminders with or without music. But if you chose to turn music on, you can choose from 8 different music sounds for every alarm.
