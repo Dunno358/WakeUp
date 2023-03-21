@@ -16,7 +16,7 @@ You can easily set a reminder on your device at specific date and time(hh:mm) wi
 ## Customization
 ![Settings](https://github.com/Dunno358/Pictures/blob/main/wakeup_settings.png?raw=true)
 - Colors - You can choose from 21 colors to fill one of three segments of app, which lets you mix them different ways.
-![Colors](https://github.com/Dunno358/Pictures/blob/main/colors_picking.png?raw=true)
+&emsp; ![Colors](https://github.com/Dunno358/Pictures/blob/main/color_picking.png?raw=true)
 - Background and side pictures - You can choose from preloaded 8 pictures for both background and side bar. If you want you can add your own pictures to specified folder and use them as well.
-![Backgrounds](https://github.com/Dunno358/Pictures/blob/main/pict_picking.png?raw=true) ![Adding Background](https://github.com/Dunno358/Pictures/blob/main/pict_adding.png?raw=true)
+&emsp; ![Backgrounds](https://github.com/Dunno358/Pictures/blob/main/pict_picking.png?raw=true) &emsp; ![Adding Background](https://github.com/Dunno358/Pictures/blob/main/pict_adding.png?raw=true)
 - Music - You can choose if you want your reminders with or without music. But if you chose to turn music on, you can choose from 8 different music sounds for every alarm.
